@@ -1,0 +1,3 @@
+this tool is used to make the wordlist which is help in the dictonary attack 
+use for only education purpose
+
